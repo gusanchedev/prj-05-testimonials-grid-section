@@ -52,7 +52,7 @@ body {
 }
 .card:nth-of-type(3) .testimonial-headline {
   color: var(--Very-dark-grayish-blue);
-  padding-right: 30px;
+  padding-right: 40px;
 }
 .card:nth-of-type(5) .testimonial-headline {
   color: var(--Very-dark-grayish-blue);
